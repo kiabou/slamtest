@@ -30,7 +30,7 @@ def resultats():
 loto = resultats()
 grille = [0]*6
 resultat = [0]*6
-m = 0
+m = 1-49
 o=0
 numero = 0
 
