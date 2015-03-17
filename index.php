@@ -3,7 +3,7 @@
 <body>
 <h1>PAGE DE baptiste</h1>
     <?php
-	   echo"salut jb";
+	   echo"salut papa";
 	    $connecte= mysql_connect("ftp.baptiste.fr","jb","jean") or die("impossible d'acceder a mysql");
 		mysql_select_db("jb",$connecte);
 		$sql="SELECT * FROM pacha";
